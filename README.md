@@ -184,18 +184,21 @@ print(le.inverse_transform(x_single_prediction))
 ```
 
 ## Dataset Information:
-![image](https://github.com/Rithigasri/DL_Exp02/assets/93427256/59ce1619-686c-4ae9-835f-9c77bdb146ed)
+![image](https://github.com/sangeethak15-AI/nn-classification/assets/93992063/f0b8375c-f3fe-4046-8166-4320315b2ea1)
 
 
 ## OUTPUT:
 ### Training Loss, Validation Loss Vs Iteration Plot:
-![image](https://github.com/Rithigasri/DL_Exp02/assets/93427256/714e5816-8daf-49df-8ee1-bff332a8b6b6)
+![image](https://github.com/sangeethak15-AI/nn-classification/assets/93992063/b6f414cb-3a31-470e-aef2-1bf376ef2aa3)
+
 ### Classification Report:
-![image](https://github.com/Rithigasri/DL_Exp02/assets/93427256/6bfd3d31-f93b-42d9-83e4-a8ec21f6a983)
+![image](https://github.com/sangeethak15-AI/nn-classification/assets/93992063/bb23bc88-7f16-4fdb-874d-c556ae4cada5)
+
 ### Confusion Matrix:
-![image](https://github.com/Rithigasri/DL_Exp02/assets/93427256/419517ce-f97d-4f3e-af4a-977ccb0d24d4)
+![image](https://github.com/sangeethak15-AI/nn-classification/assets/93992063/4a97d423-e180-446c-9078-563d848647f7)
+
 ### New Sample Data Prediction:
-![image](https://github.com/Rithigasri/DL_Exp02/assets/93427256/11617352-b34c-4762-b686-39798d90c82d)
+![image](https://github.com/sangeethak15-AI/nn-classification/assets/93992063/878c1f95-8eaa-4531-8e46-153772d060a5)
 
 ## RESULT:
 Thus a neural network classification model is developed for the given dataset.
